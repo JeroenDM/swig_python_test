@@ -1,0 +1,4 @@
+*.o
+*.so
+*_wrap.c
+__pycache__/

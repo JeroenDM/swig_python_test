@@ -1,0 +1,6 @@
+*.o
+*.so
+*_wrap.c
+example.py
+prime.py
+__pycache__/
